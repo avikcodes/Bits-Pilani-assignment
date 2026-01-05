@@ -1,0 +1,11 @@
+1. The `id` command displays my username and all groups my account belongs to, confirming my user identity on the system.
+2. The `pwd` command shows my current directory, and `ls -la` lists all files with permissions and ownership details in long format.
+3. I created the file `user_info.txt` and wrote the required verification message, then displayed its contents to confirm.
+4. The `wc -m` command counts the total number of characters present in the file.
+5. I accessed the manual page for `mkdir` to learn its options. The `-p` option allows creating parent directories if they do not exist.
+6. Listing the home directory shows all files sorted alphabetically by default.
+7. The `grep` command searches for lines containing the word "admin" in log.txt and displays only the matching lines.
+8. The `uname -r` command displays the version of the Linux kernel currently running.
+9. I attempted to verify network connectivity using the ping command. The command was not found because the ping utility is not installed in the GitHub Codespaces environment,
+   which is a known limitation of minimal cloud-based systems.
+10. The `uptime` command displays how long the system has been running, the number of logged-in users, and the system load average.
